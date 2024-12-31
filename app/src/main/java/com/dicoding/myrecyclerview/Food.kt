@@ -6,7 +6,7 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 
-data class Hero(
+data class Food(
 
     val name: String,
     val description: String,

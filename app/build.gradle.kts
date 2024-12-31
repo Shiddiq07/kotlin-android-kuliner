@@ -8,6 +8,9 @@ android {
     namespace = "com.dicoding.myrecyclerview"
     compileSdk = 35
 
+    buildFeatures {
+        viewBinding = true
+    }
     defaultConfig {
         applicationId = "com.dicoding.myrecyclerview"
         minSdk = 21

@@ -38,7 +38,7 @@
             card_view:layout_constraintEnd_toEndOf="parent"
             card_view:layout_constraintStart_toEndOf="@+id/img_item_photo"
             card_view:layout_constraintTop_toTopOf="@+id/img_item_photo"
-            tools:text="@string/heroes_name" />
+            tools:text="@string/food_name" />
 
         <TextView
             android:id="@+id/tv_item_description"
